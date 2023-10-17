@@ -12,7 +12,7 @@
 		<jdk.version>1.6</jdk.version>
 		<spring.version>3.2.2.RELEASE</spring.version>
 		<spring.batch.version>2.2.0.RELEASE</spring.batch.version>
-		<quartz.version>1.8.6</quartz.version>
+		<quartz.version>2.3.2</quartz.version>
 	</properties>
 
 	<dependencies>
